@@ -1,2 +1,1 @@
-# production-expense-app
-MERN Stack Expense Management Application.
+#This is MERN Expense managment project.
